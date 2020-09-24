@@ -54,16 +54,18 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   text-transform: uppercase;
   min-width: 125px;
   padding: 10px;
+  vertical-align: middle;
 }
 
 .rowhead{
   border-right: 2px solid #000000;
   border-top: 2px solid #000000;
+  vertical-align: middle;
 }
 
 td{
